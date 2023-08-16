@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Swift</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="create_exam">Create Exam</string>
+    <string name="check_exam">Check Exam</string>
+    <string name="logo_description">Swift Logo</string>
+    <string name="name_of_subject">Name of Subject</string>
+    <string name="no_of_questions">No. of Questions</string>
+    <string name="name_of_teacher">Name of Teacher</string>
+    <string name="min_num_of_questions">25</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_1_a">1. a.</string>
+    <string name="question_1_c">1. c)</string>
+    <string name="question_1_b">1. b)</string>
+    <string name="question_1_d">1. d)</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_2_a">2. a)</string>
+    <string name="question_2_d">2. d)</string>
+    <string name="question_2_c">2. c)</string>
+    <string name="question_2_b">2. b)</string>
+    <string name="question_3_d">3. d)</string>
+    <string name="question_3_c">3. c)</string>
+    <string name="question_3_b">3. b)</string>
+    <string name="question_3_a">3. a)</string>
+    <string name="question_3">Question 3</string>
+    <string name="item_bank">Item Bank</string>
+    <string name="section">Section</string>
+    <string name="add_item">+ Add Test Item</string>
+    <string name="add_from_item_bank">+ Add From Item Bank</string>
+    <string-array name="number_of_questions">
+        <item>10</item>
+        <item>20</item>
+        <item>25</item>
+        <item>50</item>
+    </string-array>
+    <string name="title_activity_test">TestActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="search">Search</string>
+    <string name="question">Question</string>
+    <string name="option1">Option A</string>
+    <string name="option2">Option B</string>
+    <string name="option3">Option C</string>
+    <string name="option4">Option D</string>
+    <string name="answer">Answer</string>
+    <string name="save">Save</string>
+    <string name="add_section">+ Add Section</string>
+    <string name="section_name">Section Name</string>
+    <string name="add_student">+ Add Student</string>
+    <string name="section_colon">Section: </string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last Name</string>
+    <string name="exam_title">Exam Title</string>
+    <string name="item_list">Item List</string>
+    <string name="confirm">Confirm</string>
+    <string name="score">Score</string>
+    <string name="student_name">Student name:</string>
+    <string name="save_result">SAVE RESULT</string>
+    <string name="item_analysis">Item Analysis</string>
+
+
+    <string-array name="questions">
+        <item>Who are you?</item>
+        <item>Who am I?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Where am I?</item>
+    </string-array>
+    <string-array name="option1">
+        <item>First option 1</item>
+        <item>Who am I?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Last option 1</item>
+    </string-array>
+    <string-array name="option2">
+        <item>First option 2</item>
+        <item>Who am I?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Last option 2</item>
+    </string-array>
+    <string-array name="option3">
+        <item>First option 3</item>
+        <item>Who am I?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Last option 3</item>
+    </string-array>
+    <string-array name="option4">
+        <item>First option 4</item>
+        <item>Who am I?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Who are you?</item>
+        <item>Last option 4</item>
+    </string-array>
+    <string-array name="id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="answer">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="options">
+        <item>Option A</item>
+        <item>Option B</item>
+        <item>Option C</item>
+        <item>Option D</item>
+    </string-array>
+
+</resources>

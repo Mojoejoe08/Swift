@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Administrator\Desktop\final_source_code\Swift\OpenCV\.cxx\Debug\893k02s2\arm64-v8a'
+ninja: no work to do.
